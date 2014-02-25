@@ -9,9 +9,9 @@ describe StaticPagesController do
     end
   end
 
-  describe "GET 'help--no-test-framework'" do
+  describe "GET 'help" do
     it "returns http success" do
-      get 'help--no-test-framework'
+      get 'help'
       response.should be_success
     end
   end
