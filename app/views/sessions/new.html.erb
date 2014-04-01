@@ -4,10 +4,10 @@
 <div class="row">
   <div class="span6 offset3">
     <%= form_tag sessions_path, :method => 'post' do %>
-        <%= label_tag 'email' %><br />
+        <%= label_tag 'email', 'Email' %>
         <%= text_field_tag :email, params[:email], :placeholder => "Email" %>
 
-        <%= label_tag 'password' %><br />
+        <%= label_tag 'password', 'Password' %><br />
         <%= password_field_tag :password %>
 
         <%= submit_tag 'Sign in' %>
