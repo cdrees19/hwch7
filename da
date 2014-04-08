@@ -1,0 +1,89 @@
+[33mcommit eb4933ce39f8e64166d1177e7c703f55a5a0b0d0[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Tue Apr 1 09:37:33 2014 -0500
+
+    gave new.html.erb more label tags
+
+[33mcommit 8b6187b35cf25dcd71488bcb748b7c4162db9eb7[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Tue Apr 1 08:50:42 2014 -0500
+
+    8.5.1 and 8.5.2 completed
+
+[33mcommit 6bd3a27ecde5cd8741a02aa33c0a09b696e535e6[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Tue Apr 1 08:14:54 2014 -0500
+
+    Finish sign in
+
+[33mcommit e2d9ae4f1f09aa47aabed149e5017104a6ae4bb1[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Mon Mar 10 16:58:37 2014 -0500
+
+    7.6.1 to 7.6.4 completed
+
+[33mcommit 71b0d615963c10ee0dff386d3de94d1adaecc89e[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Mon Mar 10 16:41:24 2014 -0500
+
+    Add SSL in production
+
+[33mcommit d761f1a1a302d70a141865d4db56b2bfa70e641f[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Mon Mar 10 16:39:52 2014 -0500
+
+    Finish user signup
+
+[33mcommit 780e52236262efca40c92d2708c4c4744bbfddb4[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Thu Mar 6 16:04:51 2014 -0600
+
+    completed 6.5.1-6.5.3
+
+[33mcommit 2bf9de65b83db08da21878f6fafdbc5c3b0dbe32[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Thu Mar 6 15:58:17 2014 -0600
+
+    Make a basic User model (including secure passwords)
+
+[33mcommit deff33a8cd0ed85b4eaabb0a839fb24cdbf9b747[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Tue Feb 25 01:29:18 2014 -0600
+
+    Finish layout and routes
+
+[33mcommit 4f8ebad8445324592bbc315f3e5b5c2264369223[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Tue Feb 18 04:02:39 2014 -0600
+
+    Add a full_title helper
+
+[33mcommit a0deb9e12eff6d2deca9ce7347031a2a4b218278[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Tue Feb 18 02:48:19 2014 -0600
+
+    Finish contact page
+
+[33mcommit c6c5d34a75b810aa31a8e841b6dd8acd9503d20b[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Tue Feb 11 02:06:04 2014 -0600
+
+    Finish static pages
+
+[33mcommit 2ce4c0e859a8a5b6e59f7c6d69fb168b2a2fd3e9[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Tue Feb 11 01:29:46 2014 -0600
+
+    Add a StaticPages controller
+
+[33mcommit e716af5d5ba88ab23bbe4f015d788010b7870d9d[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Tue Feb 11 00:29:18 2014 -0600
+
+    Improve the README
+
+[33mcommit a58b0a0558e3e77cbdffcf672553057f48597f33[m
+Author: Corey Drees <cdrees@wisc.edu>
+Date:   Tue Feb 11 00:28:28 2014 -0600
+
+    Initial commit
