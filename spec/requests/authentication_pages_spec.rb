@@ -20,6 +20,7 @@ describe "Authentication" do
 
       it { should have_title('Sign in') }
       it { should have_error_message('Invalid') }
+
     
 
       describe "after visiting another page" do
@@ -27,6 +28,15 @@ describe "Authentication" do
       	it { should_not have_error_message('Invalid') } 
       end
 
+    end
+
+    describe "with invalid information" do
+      
+      it { should_not have_link('Users',) }
+      it { should_not have_link('Profile') }
+      it { should_not have_link('Settings') }
+      it { should_not have_link('Sign out',    href: signout_path) }
+      it { should have_link('Sign in', href: signin_path) }
     end
 
     describe "with valid information" do
