@@ -47,7 +47,7 @@ class UsersController < ApplicationController
       user.destroy
       flash[:success] = "User destroyed."
     end
-  redirect_to users_path
+    redirect_to users_path
   end
 
   def index

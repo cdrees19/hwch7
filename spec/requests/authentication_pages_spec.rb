@@ -143,6 +143,7 @@ describe "Authentication" do
       end
     end
 
+=begin
     describe "as admin user" do
       let(:admin) { FactoryGirl.create(:admin) }
       before { sign_in admin }
@@ -153,8 +154,8 @@ describe "Authentication" do
               flash[:error].should =~ /Cannot delete own admin account!/i }
       end      
     end
-    
-  end
+=end
 
+  end
 end
 
